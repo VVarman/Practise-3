@@ -1,0 +1,13 @@
+body {
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.block {
+    display: inline-block;
+    margin: 10px;
+    height: 148px;
+    width: 148px;
+    border: 2px dashed blue;
+    background: linear-gradient(to left, yellow, green);
+}

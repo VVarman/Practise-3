@@ -1,0 +1,36 @@
+#header {
+    width: 100%;   
+    margin: 0px; 
+    text-align: center; background-color:#ff9999;  
+}
+#right {  
+    float: right; 
+    width: 200px;
+    margin: 20px 0px 0px 0px; 
+    text-align: right; 
+    background-color:#99ff99; 
+    height: 400px;
+}    
+#middle {
+    margin: 20px 220px 10px 220px; /* розміри полів */ 
+    background-color:#9999ff;
+    height: 400px;
+    text-align: center;
+}
+    
+#footer {
+    margin: 0;
+    border: solid 1px Dark;
+    font-size: 10px;
+    background-color: #dbc1c1;
+    text-align: center;
+    clear:both; /* скасовується обтікання з обох боків */
+}
+#left {
+    background-color:#fdff5e;
+    margin: 20px 0px 0px 0px;
+    width: 200px; /* задана ширина блоку */
+    float:left;
+    /* обтікання зліва */
+    height: 400px;
+}
